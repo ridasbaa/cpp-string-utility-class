@@ -1,0 +1,20 @@
+﻿  CppStringUtility.cpp
+C:\Users\RIDA\Desktop\CppStringUtility\CppStringUtility\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CppStringUtility.cpp')
+  
+C:\Users\RIDA\Desktop\CppStringUtility\CppStringUtility\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CppStringUtility.cpp')
+  
+C:\Users\RIDA\Desktop\CppStringUtility\CppStringUtility\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CppStringUtility.cpp')
+  
+C:\Users\RIDA\Desktop\CppStringUtility\CppStringUtility\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CppStringUtility.cpp')
+  
+C:\Users\RIDA\Desktop\CppStringUtility\CppStringUtility\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CppStringUtility.cpp')
+  
+C:\Users\RIDA\Desktop\CppStringUtility\CppStringUtility\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CppStringUtility.cpp')
+  
+  CppStringUtility.vcxproj -> C:\Users\RIDA\Desktop\CppStringUtility\x64\Debug\CppStringUtility.exe

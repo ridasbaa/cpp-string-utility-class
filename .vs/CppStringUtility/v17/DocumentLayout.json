@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RIDA\\Desktop\\CppStringUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85624BF3-164B-479D-98C9-916997AB30D1}|CppStringUtility\\CppStringUtility.vcxproj|C:\\Users\\RIDA\\Desktop\\CppStringUtility\\CppStringUtility\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85624BF3-164B-479D-98C9-916997AB30D1}|CppStringUtility\\CppStringUtility.vcxproj|solutionrelative:CppStringUtility\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85624BF3-164B-479D-98C9-916997AB30D1}|CppStringUtility\\CppStringUtility.vcxproj|C:\\Users\\RIDA\\Desktop\\CppStringUtility\\CppStringUtility\\CppStringUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85624BF3-164B-479D-98C9-916997AB30D1}|CppStringUtility\\CppStringUtility.vcxproj|solutionrelative:CppStringUtility\\CppStringUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\RIDA\\Desktop\\CppStringUtility\\CppStringUtility\\clsString.h",
+              "RelativeDocumentMoniker": "CppStringUtility\\clsString.h",
+              "ToolTip": "C:\\Users\\RIDA\\Desktop\\CppStringUtility\\CppStringUtility\\clsString.h",
+              "RelativeToolTip": "CppStringUtility\\clsString.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-22T07:38:34.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CppStringUtility.cpp",
+              "DocumentMoniker": "C:\\Users\\RIDA\\Desktop\\CppStringUtility\\CppStringUtility\\CppStringUtility.cpp",
+              "RelativeDocumentMoniker": "CppStringUtility\\CppStringUtility.cpp",
+              "ToolTip": "C:\\Users\\RIDA\\Desktop\\CppStringUtility\\CppStringUtility\\CppStringUtility.cpp",
+              "RelativeToolTip": "CppStringUtility\\CppStringUtility.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T07:38:12.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
